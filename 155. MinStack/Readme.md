@@ -15,10 +15,10 @@ We should implement a class which provides five functions,
 ### Architecture
 Two stacks are used to store input data and the minimum numbers in the stack.
 
-Init:
+Init:<br></br>
 ![](https://i.imgur.com/zazng9S.png)
 
-Insert 3:
+Insert 3:<br></br>
 ![](https://i.imgur.com/yoEKfuP.png)
 
 
