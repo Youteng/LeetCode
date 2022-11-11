@@ -1,6 +1,6 @@
 <center><h1>MinStack</h1></center>
 
-[Leetcode Link](//https://leetcode.com/problems/min-stack/submissions/)
+[Leetcode Link](https://leetcode.com/problems/min-stack/submissions/)
 
 ### Intorduce
 We should implement a class which provides five functions, 
