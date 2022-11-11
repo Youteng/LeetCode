@@ -1,24 +1,24 @@
 <center><h1>MinStack</h1></center>
 
-[Leetcode Link](//https://leetcode.com/problems/min-stack/submissions/)
+[Leetcode Link](https://leetcode.com/problems/min-stack/)
 
 ### Intorduce
 We should implement a class which provides five functions, 
 `MinStack() void push(int val) void pop() int top() int getMin()`.
-
-`MinStack()` is the constructor, we can do whatever we want when constructing this calss.
-`void push(int val)` is the stack push function.
-`void pop()` is the stack pop function, please note that, stacks return nothing when pop in C++.
-`int top()` returns the topmost value in the stack.
-`int getMin()` returns the smallest value in the stack.
+<br></br>
+`MinStack()` is the constructor, we can do whatever we want when constructing this calss.<br></br>
+`void push(int val)` is the stack push function.<br></br>
+`void pop()` is the stack pop function, please note that, stacks return nothing when pop in C++.<br></br>
+`int top()` returns the topmost value in the stack.<br></br>
+`int getMin()` returns the smallest value in the stack.<br></br>
 
 ### Architecture
 Two stacks are used to store input data and the minimum numbers in the stack.
 
-Init:
+Init:<br></br>
 ![](https://i.imgur.com/zazng9S.png)
 
-Insert 3:
+Insert 3:<br></br>
 ![](https://i.imgur.com/yoEKfuP.png)
 
 
