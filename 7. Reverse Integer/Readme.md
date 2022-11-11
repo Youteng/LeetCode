@@ -1,6 +1,6 @@
 <center><h1>Reverse Integer</h1></center>
 
-[Leetcode Link](https://leetcode.com/problems/min-stack/submissions/)
+[Leetcode Link](https://leetcode.com/problems/min-stack/)
 
 ### Intorduce
 In this problem, we will get a integer as input, the only thing we should do is reverse and return it.
