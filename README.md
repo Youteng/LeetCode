@@ -1,5 +1,5 @@
 # LeetCode
 A repository for leetcode problem solutions.<br/>
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=a7870211)](https://github.com/KnlnKS/leetcode-stats)
+![My Leetcode Stats](https://leetcard.jacoblin.cool/a7870211?theme=unicorn&font=Signika&ext=activity)
 
-<h5>[Leetcode Status](https://github.com/KnlnKS/leetcode-stats)</h5>
+[Leetcode States Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
